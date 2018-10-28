@@ -1,0 +1,4 @@
+this is the message which is to be encode and decoded.
+i have created symbol file for lookup.
+the numbers from 0 to 9 is also encoded.
+no capital letters please.
